@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Azou903
-- 👀 I’m interested in python, SQL, NOSQL.
+- 👀 I’m interested in python, SQL, NOSQL and data science. 
 - 🌱 I’m currently learning Economie and "informatique".
 - 💞️ I’m looking to collaborate on Data science.
 - 📫 How to reach me sowassane903@gmail.com
